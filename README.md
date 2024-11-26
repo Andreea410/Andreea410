@@ -9,6 +9,15 @@ I’m passionate about experimenting with new technologies and programming langu
 
 ---
 
+
+# 🌟 Hi, I'm [Your Name]! 👋  
+
+🎓 **Computer Science Student** | 💡 **Tech Explorer** | 🎮 **VR Enthusiast**  
+
+I’m passionate about experimenting with new technologies and programming languages. I love solving real-world problems through innovative software. Currently, I’m balancing multiple university projects while developing an exciting **VR application** that helps users understand the consequences of poor dietary decisions.
+
+---
+
 ### 🛠️ **My Tech Stack**  
 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
@@ -19,6 +28,35 @@ I’m passionate about experimenting with new technologies and programming langu
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-brightgreen)
 
 ---
+
+### 🚀 **GitHub Stats**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+### 💻 **Projects I'm Proud Of**  
+
+1. **Eating Habits VR App** 🌍  
+   - A VR application designed to teach the importance of healthy eating habits.  
+   - **Tools**: Unity, Blender, Python, C++  
+
+2. **Algorithm Visualizer** ⚙️  
+   - An interactive tool for visualizing sorting and graph algorithms.  
+   - **Tech**: Python, PyGame, Tkinter  
+
+3. **Database Manager** 💾  
+   - SQL-based project for managing and analyzing structured data.  
+   - **Tech**: SQL, Bash, Python  
+
+---
+
+### 🌐 **Connect with Me**  
+
+📫 **Email**: [Your Email Address]  
+🌐 **Portfolio**: [Portfolio Link]  
+
 
 ### 🚀 **GitHub Stats**  
 

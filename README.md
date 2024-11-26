@@ -32,6 +32,16 @@ I’m passionate about experimenting with new technologies and programming langu
 ![Maple](https://img.shields.io/badge/-Maple-red)
 
 ---
+### 🧠 **Skills & Expertise**
+
+- **Core Competencies**:  
+  - Data Structures & Algorithms  
+  - Object-Oriented Programming (OOP)  
+  - Graph Algorithms  
+  - Machine Learning  
+  - File Handling: CSV, JSON, PyTables  
+
+---
 
 ### 🚀 **GitHub Stats**  
 
@@ -44,17 +54,6 @@ I’m passionate about experimenting with new technologies and programming langu
   </div>
 </div>
 
-
-### 🧠 **Skills & Expertise**
-
-- **Core Competencies**:  
-  - Data Structures & Algorithms  
-  - Object-Oriented Programming (OOP)  
-  - Graph Algorithms  
-  - Machine Learning  
-  - File Handling: CSV, JSON, PyTables  
-
----
 
 ### 💻 **Projects I'm Proud Of**  
 

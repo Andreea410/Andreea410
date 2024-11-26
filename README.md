@@ -47,35 +47,6 @@ I’m passionate about experimenting with new technologies and programming langu
 
 ### 🚀 **GitHub Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
-### 💻 **Projects I'm Proud Of**  
-
-1. **Eating Habits VR App** 🌍  
-   - A VR application designed to teach the importance of healthy eating habits.  
-   - **Tools**: Unity, Blender, Python, C++  
-
-2. **Algorithm Visualizer** ⚙️  
-   - An interactive tool for visualizing sorting and graph algorithms.  
-   - **Tech**: Python, PyGame, Tkinter  
-
-3. **Database Manager** 💾  
-   - SQL-based project for managing and analyzing structured data.  
-   - **Tech**: SQL, Bash, Python  
-
----
-
-### 🌐 **Connect with Me**  
-
-📫 **Email**: [Your Email Address]  
-🌐 **Portfolio**: [Portfolio Link]  
-
-
-### 🚀 **GitHub Stats**  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andreea410&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreea410&layout=compact&theme=radical)
 
@@ -85,10 +56,17 @@ I’m passionate about experimenting with new technologies and programming langu
 
 1. **Eating Habits VR App** 🌍  
    - A VR application designed to teach the importance of healthy eating habits.  
-   - **Tools**: Unity, Blender, Python, C++  
+   - **Tools**: Unity, Blender, Python, C++
+       
+4. **Adopt a Pet: Dog Shelter Application** 🐕  
+   - A comprehensive application for managing a dog shelter, allowing users to browse, adopt, and manage pets efficiently.  
+   - **Features**: User-friendly GUI, adoption tracking, and database management for pets.  
+   - **Tech**: Python, SQL, OOP  
 
- 
-
+5. **Gomoku Game with GUI** 🎮  
+   - An implementation of the classic Gomoku game with an intuitive graphical user interface (GUI).  
+   - Includes a robust game engine, win-checking logic, and an interactive gameplay experience.  
+   - **Tech**: Python, PyGame
 ---
 
 ### 🌐 **Connect with Me**  

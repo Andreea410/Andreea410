@@ -8,21 +8,42 @@ I’m passionate about experimenting with new technologies and programming langu
 
 ---
 
-### 🛠️ **My Tech Stack and GitHub Stats**  
+### 🛠️ **My Tech Stack**  
 
-| **Tech Stack** | **GitHub Stats** |
-|-----------------|------------------|
-| **Programming Languages**:  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andreea410&show_icons=true&theme=radical) |
-| ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreea410&layout=compact&theme=radical) |
-| ![Prolog](https://img.shields.io/badge/-Prolog-red) ![Lisp](https://img.shields.io/badge/-Lisp-lightgrey) ![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-blue) |  |
-| **Frameworks & Tools**:  |  |
-| ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) |  |
-| ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |  |
-| ![PyGame](https://img.shields.io/badge/-PyGame-green) ![Tkinter](https://img.shields.io/badge/-Tkinter-orange) |  |
-| ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) |  |
-| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![Matlab](https://img.shields.io/badge/-Matlab-0076A8) ![Maple](https://img.shields.io/badge/-Maple-red) |  |
+#### **Programming Languages:**  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![Prolog](https://img.shields.io/badge/-Prolog-red)  
+![Lisp](https://img.shields.io/badge/-Lisp-lightgrey)  
+![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-blue)
+
+#### **Frameworks & Tools:**  
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)  
+![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![PyGame](https://img.shields.io/badge/-PyGame-green)  
+![Tkinter](https://img.shields.io/badge/-Tkinter-orange)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)  
+![Matlab](https://img.shields.io/badge/-Matlab-0076A8)  
+![Maple](https://img.shields.io/badge/-Maple-red)
 
 ---
+
+### 🚀 **GitHub Stats**  
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Andreea410&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreea410&layout=compact&theme=radical" alt="Top Languages" width="400">
+  </div>
+</div>
+
 
 ### 🧠 **Skills & Expertise**
 

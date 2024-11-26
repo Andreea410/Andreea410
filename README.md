@@ -1,16 +1,20 @@
-## Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
-<!--
-**Andreea410/Andreea410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ungur Andreea-Andrada 👋
 
-Here are some ideas to get you started:
+### About Me
+🌟 Passionate about building innovative software solutions.  
+📚 Currently exploring [specific tech/field, e.g., AI-driven applications].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Tools
+- **Languages**: Python, JavaScript, SQL  
+- **Frameworks/Tools**: React, Node.js, Django  
+- **Interests**: Machine Learning, Data Visualization  
+
+### Featured Projects
+1. **Nutrition Tracker App**: AI-driven app to analyze meals and provide nutrition insights. [Repo Link](#)
+2. **Pathfinding Visualizer**: Interactive tool showcasing algorithms like A*, Dijkstra. [Repo Link](#)
+
+### Let's Connect!
+📫 Reach me at: [Your Email]  
+🌐 Portfolio: [Portfolio Link]

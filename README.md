@@ -10,22 +10,38 @@ I’m passionate about experimenting with new technologies and programming langu
 ---
 
 
-# 🌟 Hi, I'm [Your Name]! 👋  
-
-🎓 **Computer Science Student** | 💡 **Tech Explorer** | 🎮 **VR Enthusiast**  
-
-I’m passionate about experimenting with new technologies and programming languages. I love solving real-world problems through innovative software. Currently, I’m balancing multiple university projects while developing an exciting **VR application** that helps users understand the consequences of poor dietary decisions.
-
----
-
 ### 🛠️ **My Tech Stack**  
 
+#### Programming Languages:
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 ![Prolog](https://img.shields.io/badge/-Prolog-red)  
+![Lisp](https://img.shields.io/badge/-Lisp-lightgrey)  
+![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-blue)  
+
+#### Frameworks & Tools:
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-brightgreen)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)  
+![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![PyGame](https://img.shields.io/badge/-PyGame-green)  
+![Tkinter](https://img.shields.io/badge/-Tkinter-orange)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)  
+![Matlab](https://img.shields.io/badge/-Matlab-0076A8)  
+![Maple](https://img.shields.io/badge/-Maple-red)  
+
+---
+### 🧠 **Skills & Expertise**
+
+- **Core Competencies**:  
+  - Data Structures & Algorithms  
+  - Object-Oriented Programming (OOP)  
+  - Graph Algorithms  
+  - Machine Learning  
+  - File Handling: CSV, JSON, PyTables  
 
 ---
 

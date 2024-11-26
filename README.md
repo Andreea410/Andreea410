@@ -2,9 +2,10 @@
 
 # Hi, I'm Ungur Andreea-Andrada 👋
 
-### About Me
-🌟 Passionate about building innovative software solutions.  
-📚 Currently exploring [specific tech/field, e.g., AI-driven applications].
+About Me
+🎓 I'm currently a computer science student passionate about exploring cutting-edge technologies and diving into diverse programming languages. I thrive on learning and implementing new ideas to create impactful solutions.
+
+💡 Right now, I’m working on multiple university projects and developing a VR application focused on eating habits, designed to help users visualize the potential consequences of their dietary choices.
 
 ### Skills & Tools
 - **Languages**: Python, JavaScript, SQL  

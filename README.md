@@ -23,7 +23,7 @@ I’m passionate about experimenting with new technologies and programming langu
 ### 🚀 **GitHub Stats**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andreea410&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreea410&layout=compact&theme=radical)
 
 ---
 

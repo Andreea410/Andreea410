@@ -61,8 +61,8 @@ I’m passionate about experimenting with new technologies and programming langu
        
 2. **Adopt a Pet: Dog Shelter Application** 🐕  
    - A comprehensive application for managing a dog shelter, allowing users to browse, adopt, and manage pets efficiently.  
-   - **Features**: User-friendly GUI, adoption tracking, and database management for pets.  
-   - **Tech**: Python, SQL, OOP  
+   - **Features**: User-friendly GUI, adoption tracking.  
+   - **Tech**: OOP, C++, Qt  
 
 3. **Gomoku Game with GUI** 🎮  
    - An implementation of the classic Gomoku game with an intuitive graphical user interface (GUI).  

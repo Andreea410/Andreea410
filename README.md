@@ -1,7 +1,10 @@
-![Visitor Count](https://profile-counter.glitch.me/Andreea410/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Andreea410/count.svg)  
+### 🚀 **Welcome to My GitHub Profile!** 🌟  
+**Visitor Count**  
+*See how many visitors have explored my journey in tech!*  
 
 # Hi, I'm Ungur Andreea-Andrada 👋
- 
+
 🎓 **Computer Science Student** | 💡 **Tech Explorer**
 
 I’m passionate about experimenting with new technologies and programming languages. I love solving real-world problems through innovative software. Currently, I’m balancing multiple university projects while developing an exciting **VR application** that helps users understand the consequences of poor dietary decisions.
@@ -10,28 +13,22 @@ I’m passionate about experimenting with new technologies and programming langu
 
 ### 🛠️ **My Tech Stack**  
 
-#### **Programming Languages:**  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![Prolog](https://img.shields.io/badge/-Prolog-red)  
-![Lisp](https://img.shields.io/badge/-Lisp-lightgrey)  
-![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-blue)
-
-#### **Frameworks & Tools:**  
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)  
-![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![PyGame](https://img.shields.io/badge/-PyGame-green)  
-![Tkinter](https://img.shields.io/badge/-Tkinter-orange)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)  
-![Matlab](https://img.shields.io/badge/-Matlab-0076A8)  
-![Maple](https://img.shields.io/badge/-Maple-red)
+| **Programming Languages**  | **Frameworks & Tools**  |
+|----------------------------|-------------------------|
+| ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  | ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)  |
+| ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  | ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)  |
+| ![Prolog](https://img.shields.io/badge/-Prolog-red)  | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  |
+| ![Lisp](https://img.shields.io/badge/-Lisp-lightgrey)  | ![PyGame](https://img.shields.io/badge/-PyGame-green)  |
+| ![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-blue)  | ![Tkinter](https://img.shields.io/badge/-Tkinter-orange)  |
+|                          | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  |
+|                          | ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)  |
+|                          | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)  |
+|                          | ![Matlab](https://img.shields.io/badge/-Matlab-0076A8)  |
+|                          | ![Maple](https://img.shields.io/badge/-Maple-red)  |
 
 ---
+
 ### 🧠 **Skills & Expertise**
 
 - **Core Competencies**:  
@@ -54,6 +51,7 @@ I’m passionate about experimenting with new technologies and programming langu
   </div>
 </div>
 
+---
 
 ### 💻 **Projects I'm Proud Of**  
 
@@ -76,4 +74,4 @@ I’m passionate about experimenting with new technologies and programming langu
 ### 🌐 **Connect with Me**  
 
 📫 **Email**: andreeaungur494@yahoo.com  
-📫 **LinkedIn**: [Andreea Ungur](https://www.linkedin.com/in/andreea-ungur-b45751306)  
+📫 **LinkedIn**: [Andreea Ungur](https://www.linkedin.com/in/andreea-ungur-b45751306)

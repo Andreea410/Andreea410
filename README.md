@@ -2,16 +2,13 @@
 
 # Hi, I'm Ungur Andreea-Andrada 👋
  
-
 🎓 **Computer Science Student** | 💡 **Tech Explorer**   
 
 I’m passionate about experimenting with new technologies and programming languages. I love solving real-world problems through innovative software. Currently, I’m balancing multiple university projects while developing an exciting **VR application** that helps users understand the consequences of poor dietary decisions.
 
 ---
 
-
 ### 🛠️ **My Tech Stack**  
-
 #### Programming Languages:
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
@@ -33,9 +30,13 @@ I’m passionate about experimenting with new technologies and programming langu
 ![Matlab](https://img.shields.io/badge/-Matlab-0076A8)  
 ![Maple](https://img.shields.io/badge/-Maple-red)  
 
----
-### 🧠 **Skills & Expertise**
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreea410&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
+---
+
+### 🧠 **Skills & Expertise**
 - **Core Competencies**:  
   - Data Structures & Algorithms  
   - Object-Oriented Programming (OOP)  
@@ -45,10 +46,10 @@ I’m passionate about experimenting with new technologies and programming langu
 
 ---
 
-### 🚀 **GitHub Stats**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andreea410&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreea410&layout=compact&theme=radical)
+### 🚀 **GitHub Stats**
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreea410&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -67,9 +68,10 @@ I’m passionate about experimenting with new technologies and programming langu
    - An implementation of the classic Gomoku game with an intuitive graphical user interface (GUI).  
    - Includes a robust game engine, win-checking logic, and an interactive gameplay experience.  
    - **Tech**: Python, PyGame
+
 ---
 
 ### 🌐 **Connect with Me**  
 
-📫 **Email**: andreeaungur494@yahoo.com 
-📫 **LinkedIn**: www.linkedin.com/in/andreea-ungur-b45751306
+📫 **Email**: andreeaungur494@yahoo.com  
+📫 **LinkedIn**: [www.linkedin.com/in/andreea-ungur-b45751306](https://www.linkedin.com/in/andreea-ungur-b45751306)  

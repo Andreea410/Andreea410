@@ -72,3 +72,4 @@ I’m passionate about experimenting with new technologies and programming langu
 ### 🌐 **Connect with Me**  
 
 📫 **Email**: andreeaungur494@yahoo.com 
+📫 **LinkedIn**: www.linkedin.com/in/andreea-ungur-b45751306

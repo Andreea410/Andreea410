@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/Andreea410/count.svg)
+![image title](https://rushter.com/counter.svg)
 
 # Hi, I'm Ungur Andreea-Andrada 👋
 

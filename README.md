@@ -1,3 +1,4 @@
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 ![image title](https://rushter.com/counter.svg)
 
 # Hi, I'm Ungur Andreea-Andrada 👋

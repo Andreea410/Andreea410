@@ -1,8 +1,8 @@
+**Visitor Count**  
+*See how many visitors have explored my journey in tech!*
 ![Visitor Count](https://profile-counter.glitch.me/Andreea410/count.svg)  
 ### 🚀 **Welcome to My GitHub Profile!** 🌟  
-**Visitor Count**  
-*See how many visitors have explored my journey in tech!*  
-
+  
 # Hi, I'm Ungur Andreea-Andrada 👋
 
 🎓 **Computer Science Student** | 💡 **Tech Explorer**

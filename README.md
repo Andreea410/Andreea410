@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Andreea410/count.svg)
 
 # Hi, I'm Ungur Andreea-Andrada 👋
 

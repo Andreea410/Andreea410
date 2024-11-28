@@ -14,10 +14,6 @@ I’m passionate about experimenting with new technologies and programming langu
 
 ### 🛠️ **My Tech Stack**  
 
-<div style="display: flex;">  
-
-<div style="flex: 1;">  
-
 | **Programming Languages**  | **Frameworks & Tools**  |
 |----------------------------|-------------------------|
 | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  |
@@ -32,26 +28,6 @@ I’m passionate about experimenting with new technologies and programming langu
 |                          | ![Matlab](https://img.shields.io/badge/-Matlab-0076A8)  |
 |                          | ![Maple](https://img.shields.io/badge/-Maple-red)  |  
 
-</div>  
-
-<div style="flex: 1; padding-left: 20px;">  
-
-<p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreea410&theme=github_dark" alt="GitHub Profile Summary" width="400">  
-</p>  
-
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andreea410&theme=gruvbox" alt="GitHub Streak" width="400">  
-</p>  
-
-<p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andreea410&theme=github_dark" alt="Languages Per Repo" width="400">  
-</p>  
-
-</div>  
-
-</div>  
-
 ---  
 
 ### 🧠 **Skills & Expertise**  
@@ -64,6 +40,23 @@ I’m passionate about experimenting with new technologies and programming langu
   - File Handling: CSV, JSON, PyTables  
 
 ---  
+
+### 🚀 **GitHub Stats**  
+
+<p align="center">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreea410&theme=github_dark" alt="GitHub Profile Summary" width="800">  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andreea410&theme=gruvbox" alt="GitHub Streak" width="400">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreea410&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="400">  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreea410&layout=compact&theme=gruvbox" alt="Top Languages" width="400">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andreea410&theme=github_dark" alt="Languages Per Repo" width="400">  
+</p>  
+
 
 ### 💻 **Projects I'm Proud Of**  
 

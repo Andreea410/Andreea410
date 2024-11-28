@@ -1,15 +1,16 @@
 **Visitor Count**  
-*See how many visitors have explored my journey in tech!*
+*See how many visitors have explored my journey in tech!*  
 ![Visitor Count](https://profile-counter.glitch.me/Andreea410/count.svg)  
+
 ### 🚀 **Welcome to My GitHub Profile!** 🌟  
-  
-# Hi, I'm Ungur Andreea-Andrada 👋
 
-🎓 **Computer Science Student** | 💡 **Tech Explorer**
+# Hi, I'm Ungur Andreea-Andrada 👋  
 
-I’m passionate about experimenting with new technologies and programming languages. I love solving real-world problems through innovative software. Currently, I’m balancing multiple university projects while developing an exciting **VR application** that helps users understand the consequences of poor dietary decisions.
+🎓 **Computer Science Student** | 💡 **Tech Explorer**  
 
----
+I’m passionate about experimenting with new technologies and programming languages. I love solving real-world problems through innovative software. Currently, I’m balancing multiple university projects while developing an exciting **VR application** that helps users understand the consequences of poor dietary decisions.  
+
+---  
 
 ### 🛠️ **My Tech Stack**  
 
@@ -25,11 +26,11 @@ I’m passionate about experimenting with new technologies and programming langu
 |                          | ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)  |
 |                          | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)  |
 |                          | ![Matlab](https://img.shields.io/badge/-Matlab-0076A8)  |
-|                          | ![Maple](https://img.shields.io/badge/-Maple-red)  |
+|                          | ![Maple](https://img.shields.io/badge/-Maple-red)  |  
 
----
+---  
 
-### 🧠 **Skills & Expertise**
+### 🧠 **Skills & Expertise**  
 
 - **Core Competencies**:  
   - Data Structures & Algorithms  
@@ -38,27 +39,27 @@ I’m passionate about experimenting with new technologies and programming langu
   - Machine Learning  
   - File Handling: CSV, JSON, PyTables  
 
----
+---  
 
 ### 🚀 **GitHub Stats**  
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Andreea410&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreea410&layout=compact&theme=blueberry" alt="Top Languages" width="400">
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreea410&layout=compact&theme=radical" alt="Top Languages" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andreea410&theme=tokyonight" alt="Streak Stats" width="400">
   </div>
-</div>
+</div>  
 
----
+---  
 
 ### 💻 **Projects I'm Proud Of**  
 
 1. **Eating Habits VR App** 🌍  
    - A VR application designed to teach the importance of healthy eating habits.  
-   - **Tools**: Unity, Blender, Python, C++
-       
+   - **Tools**: Unity, Blender, Python, C++  
+
 2. **Adopt a Pet: Dog Shelter Application** 🐕  
    - A comprehensive application for managing a dog shelter, allowing users to browse, adopt, and manage pets efficiently.  
    - **Features**: User-friendly GUI, adoption tracking.  
@@ -67,11 +68,11 @@ I’m passionate about experimenting with new technologies and programming langu
 3. **Gomoku Game with GUI** 🎮  
    - An implementation of the classic Gomoku game with an intuitive graphical user interface (GUI).  
    - Includes a robust game engine, win-checking logic, and an interactive gameplay experience.  
-   - **Tech**: Python, PyGame
+   - **Tech**: Python, PyGame  
 
----
+---  
 
 ### 🌐 **Connect with Me**  
 
 📫 **Email**: andreeaungur494@yahoo.com  
-📫 **LinkedIn**: [Andreea Ungur](https://www.linkedin.com/in/andreea-ungur-b45751306)
+📫 **LinkedIn**: [Andreea Ungur](https://www.linkedin.com/in/andreea-ungur-b45751306)  

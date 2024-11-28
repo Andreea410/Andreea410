@@ -53,7 +53,6 @@ I’m passionate about experimenting with new technologies and programming langu
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreea410&layout=compact&theme=gruvbox" alt="Top Languages" width="400">  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andreea410&theme=github_dark" alt="Languages Per Repo" width="400">  
 </p>  
 

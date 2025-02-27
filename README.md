@@ -1,15 +1,9 @@
 **Visitor Count**  
 *See how many visitors have explored my journey in tech!*  
 ![Visitor Count](https://profile-counter.glitch.me/Andreea410/count.svg)  
-
-###  **Welcome to My GitHub Profile!**
-
 # Hi, I'm Ungur Andreea-Andrada  
-
 **Computer Science Student** | **Tech Explorer**  
-
 I’m passionate about experimenting with new technologies and programming languages. I love solving real-world problems through innovative software. Currently, I’m balancing multiple university projects while developing an exciting **VR application** that helps users understand the consequences of poor dietary decisions.  
-
 ---  
 
 ### **My Tech Stack**  

@@ -2,17 +2,17 @@
 *See how many visitors have explored my journey in tech!*  
 ![Visitor Count](https://profile-counter.glitch.me/Andreea410/count.svg)  
 
-### 🚀 **Welcome to My GitHub Profile!** 🌟  
+###  **Welcome to My GitHub Profile!**
 
-# Hi, I'm Ungur Andreea-Andrada 👋  
+# Hi, I'm Ungur Andreea-Andrada  
 
-🎓 **Computer Science Student** | 💡 **Tech Explorer**  
+**Computer Science Student** | **Tech Explorer**  
 
 I’m passionate about experimenting with new technologies and programming languages. I love solving real-world problems through innovative software. Currently, I’m balancing multiple university projects while developing an exciting **VR application** that helps users understand the consequences of poor dietary decisions.  
 
 ---  
 
-### 🛠️ **My Tech Stack**  
+### **My Tech Stack**  
 
 | **Programming Languages**  | **Frameworks & Tools**  |
 |----------------------------|-------------------------|
@@ -30,7 +30,7 @@ I’m passionate about experimenting with new technologies and programming langu
 
 ---  
 
-### 🧠 **Skills & Expertise**  
+### **Skills & Expertise**  
 
 - **Core Competencies**:  
   - Data Structures & Algorithms  
@@ -41,7 +41,7 @@ I’m passionate about experimenting with new technologies and programming langu
 
 ---  
 
-### 🚀 **GitHub Stats**  
+###  **GitHub Stats**  
 
 <p align="center">  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreea410&theme=github_dark" alt="GitHub Profile Summary" width="800">  
@@ -57,25 +57,24 @@ I’m passionate about experimenting with new technologies and programming langu
 </p>  
 
 
-### 💻 **Projects I'm Proud Of**  
+###  **Projects I'm Proud Of**  
 
-1. **Eating Habits VR App** 🌍  
+1. **Eating Habits VR App**   
    - A VR application designed to teach the importance of healthy eating habits.  
    - **Tools**: Unity, Blender, Python, C++  
 
-2. **Adopt a Pet: Dog Shelter Application** 🐕  
+2. **Adopt a Pet: Dog Shelter Application**  
    - A comprehensive application for managing a dog shelter, allowing users to browse, adopt, and manage pets efficiently.  
    - **Features**: User-friendly GUI, adoption tracking.  
    - **Tech**: OOP, C++, Qt  
 
-3. **Gomoku Game with GUI** 🎮  
+3. **Gomoku Game with GUI**  
    - An implementation of the classic Gomoku game with an intuitive graphical user interface (GUI).  
    - Includes a robust game engine, win-checking logic, and an interactive gameplay experience.  
    - **Tech**: Python, PyGame  
 
 ---  
 
-### 🌐 **Connect with Me**  
-
+###  **Connect with Me**  
 📫 **Email**: andreeaungur494@yahoo.com  
 📫 **LinkedIn**: [Andreea Ungur](https://www.linkedin.com/in/andreea-ungur-b45751306)  

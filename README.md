@@ -6,7 +6,6 @@
  **Computer Science Student | Tech Enthusiast | Problem Solver**  
 
 🔹 Passionate about software development, AI, and problem-solving.  
-🔹 Currently developing a **VR app** that educates users on healthy eating habits.  
 🔹 Constantly learning and contributing to open-source projects.  
 
 ---
@@ -43,10 +42,6 @@
 ---
 
 ##  **Projects**
-### 🕶 **Eating Habits VR App**
-- A **VR experience** that helps users visualize the effects of poor dietary choices.
-- **Tech:** Unity, Blender, Python, C++  
-
 ###  **Adopt a Pet: Dog Shelter App**
 - A **C++ application** that simplifies pet adoption and management.
 - **Features:** Adoption tracking, user-friendly GUI.
